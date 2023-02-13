@@ -19,7 +19,7 @@ def work():
         print(link.get_attribute('href'))
 
     
-hp.openPage(driver,'###')
+hp.openPage(driver,'websiteURL')
 work()
-hp.openPage(driver,'###')
+hp.openPage(driver,'websiteURL')
 work()

@@ -4,7 +4,7 @@ pip install requests==2.28.2
 
 
 //Create virtual env
-python -m venv envName
+python -m venv myenv
 
 //to activate in windows
 myenv\Scripts\activate

@@ -1,0 +1,737 @@
+This is a new file.Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - NybSys (Pvt) Ltd.
+Home
+Exhibitors
+NybSys (Pvt) Ltd.
+Regular Stall
+Hall 1 -S9
+NybSys (Pvt) Ltd.
+http://www.nybsys.com
+sales@nybsys.com
+01758637902
+Plot 3, Road 8, Block C, Section 6, Mirpur, Dhaka-1216, Bangladesh.
+Company Details
+NybSys is a premier technology company that excels in offering state-of-the-art communication solutions. Embodying a comprehensive understanding of the industry and a fervent passion for innovation, NybSys provides an extensive portfolio of wireless and communication products to cater to the ever-evolving needs of businesses and organizations. With a focus on excellence, NybSys is unwavering in its pursuit of delivering exceptional quality products and services that enable its clients to maintain a competitive edge. The company's offerings, including its 5G technology, private LTE networks, Digital Mobile Radio (DMR) solutions, and Sentra PTT app and devices, are all designed to empower clients with secure and efficient communication capabilities. NybSys' proven history of success and its commitment to innovation position the company for sustained growth and expansion in the future. For entities seeking to maintain a competitive edge in the realm of communication, NybSys stands as the premier choice for cutting-edge solutions.
+Product & Services
+01. Sentra PTT Device ( LMR Gateway )
+NybSys (Pvt) Ltd.
+IT Enabled Services
+Sentra PTT APP
+NybSys (Pvt) Ltd.
+IT Enabled Services
+DMR
+NybSys (Pvt) Ltd.
+IT Enabled Services
+4G
+NybSys (Pvt) Ltd.
+IT Enabled Services
+5G
+NybSys (Pvt) Ltd.
+IT Enabled Services
+IG100-IoT Gateway
+NybSys (Pvt) Ltd.
+IT Enabled Services
+Water ATM
+NybSys (Pvt) Ltd.
+IT Enabled Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - OpenRefactory Bangladesh Limited
+Home
+Exhibitors
+OpenRefactory Bangladesh Limited
+Regular Stall
+Hall 2 -S38
+OpenRefactory Bangladesh Limited
+http://www.openrefactory.com
+mushfique@openrefactory.com
+01729072092
+Apt 1B, House 26, Road 6, Sector 3, Uttara, Dhaka
+Company Details
+OpenRefactory's mission is to protect organizations from catastrophic risk of software failure. We do this through our proprietary SAST (Static Application Security Testing) tool called Intelligent Code Repair (iCR). We are a Silicon Valley based deep-tech software startup backed by decades of research in our domain. Our innovative and ground-breaking technology is endorsed by none other than the 2021 Turing Award Winner, Prof. Dr. Jeffrey Ullman of Stanford. We are the Champion of Bangabandhu Innovation Award (BIG) 2021, organized by Govt of Bangladesh. We are also a Tata Consultancy Services (TCS) Global Co-Innovation (COIN) Partner.
+Intelligent Code Repair (iCR) detects Security, Reliability, Vulnerability and Compliance bugs in source code that other tools miss with 5x-10x more precision and can automatically FIX those detected bugs with minimal human intervention. iCR currently supports teams using Java, Python, Golang and C.
+iCR allows developer teams to operate at premium velocity without compromising the quality. iCR is to be deployed privately as a license subscription with CI/CD integration or for on-demand use. Contrary to other tools, iCR 'comes to you' to ensure source-code confidentiality and security; iCR does not report anything back to mothership.
+iCR is priced based on the scanning capacity of lines of code. Unlike regular lines of code where whitespaces are counted as LoC, iCR calculates LoC excluding the whitespaces, which we call OpenRefactory Bundled Lines of Code (OBLoCs).
+OpenRefactory’s iCR has been built on 15 years of research by our Founder & CEO, Dr. Munawar Hafiz. Dr. Hafiz is considered to be the pioneer automated bug detection and fixing and had been backed by Microsoft, Google, DOE, NSF, BIG etc. in his research. Our other Founders are Mr. Charlie Bedard who has more than 30 years of experience in software engineering and management and Mr. Mushfique Manzoor who has more than 20 years of experience in Business Development and General Management in Telecom and Startups. The technology behind iCR of OpenRefactory’s has been endorsed by none other than the Turing Award Winner of 2020, Prof. Dr. Jeffery Ullman of Stanford University. Our other advisors include domain experts from US, Europe and Asia.
+For an online demo of iCR, please email to info@openrefactory.com
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - PeopleNTech Limited
+Home
+Exhibitors
+PeopleNTech Limited
+Regular Stall
+Hall 1 -S31
+PeopleNTech Limited
+https://www.peoplentech.com.bd
+mashrul@peoplentech.com.bd
+01556981107
+Good Luck Center (7th & 8th) Floor,151/7, Green Road, Dhaka - 1205
+Company Details
+PeopleNTechis the Best IT training, Software Development, Job Placement and Outsourcing company in Bangladesh. PeopleNTechhas track record of sucess for providing job placement after training which is more then 6000+ in USA and 2500+ students in Bangladesh. Hands on, Real life oriented Training make our students successful. Come and join in the Best IT Training Institute in Bangladesh.
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Piistech Limited
+Home
+Exhibitors
+Piistech Limited
+Regular Stall
+Hall 2 -S60
+Piistech Limited
+https://www.piistech.com
+md@piistech.com
+01717639422
+3rd Floor, H#31, Road#10, Sector#6, Uttara, Dhaka-1230
+Company Details
+WHO WE ARE
+PIISTECH (Perfect Intelligence Information System & Technology) is a professional software solution provider farm in Bangladesh. This company was founded in February 2017. Since then, it has been involved in expert outsourcing by linking the business process to information technology tools. Our company is determined to provide all sorts of high-valued and cost-effective services. We have a diverse workforce and we believe this diversity is our strength. Our teamwork is worthwhile in providing services worldwide. We are working with USA, Malaysian, Singapore, Australian, and UK-based clients. We are providing a cloud-based solution, big data, product development & maintenance, UI & UX Design, and E-commerce services. Web development, App development (iOS, Android), and Digital Marketing services are also available. Our aim is to serve you with the best possible solutions and gain a firm position in the market. Last but not least our company is one of the best in solving all your expectations.
+  WHY CHOOSE US?
+Assured services
+Piistech Ltd provides general safety and risk management solutions. Our company will add value to your business farm and ensure that your business is protected from risks.
+Next-gen technology provider
+Our company has expert hands to solve any technological issues. We try to stay up to date with the recent market demands. You can get all the latest tech solutions from us.
+Worldwide client
+We are working with clients from different countries. Our company has provided quality work and gained the trust of the customers worldwide.
+Cost-effective solution
+If you think to have a better outcome with low cost then PIISTECH is the one. We are offering the best technology solution at an affordable price.
+On-time delivery
+We always ensure that our task is handed over within the given time. Our main priority is customer gratification. Hope you will not be disappointed while working with us.
+  For more detail visit www.piistech.com
+  Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Project2Morrow Consulting Services
+Home
+Exhibitors
+Project2Morrow Consulting Services
+Regular Stall
+Hall 1 -S27
+Project2Morrow Consulting Services
+https://project2morrow.com/
+shariful.tapash@project2morrow.com
++8801713452228
+BAFWWA Complex (3rd Floor - South), Bir Uttom Ziaur Rahman Road, Mohakhali, Dhaka, Bangladesh.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - RTC Hubs Limited
+Home
+Exhibitors
+RTC Hubs Limited
+Regular Stall
+Hall 2 -S72
+RTC Hubs Limited
+https://rtchubs.com
+mamun@rtchubs.com
+01710441906
+55, Shah Makhdum Avenue (Level-03), Sector#12, Uttara, Dhaka-1230, Bangladesh
+Company Details
+RTC Hubs Ltd is a leading software development company that provides a wide range of services to businesses of all sizes. We are specialized in mobile and web app development, augmented reality, e-commerce development, augmented reality, virtual reality, UI/UX design, and search engine optimization (SEO) etc. Our team consists of experienced developers and designers who are dedicated to creating custom software solutions that meet the unique needs of our clients and the market.
+Our Journey
+      We understand that every business is different, and that's why we take a personalized approach to every project. Our solutions are designed to improve efficiency & effectiveness, streamline processes, and drive growth for our clients. We are passionate about using cutting-edge technology to create innovative software that sets our clients apart from their market/business competition.
+  Our team is experienced in a variety of programming languages and technologies, and we are constantly updating our skills to stay ahead of the trend curve. We have a proven track record of delivering high-quality software on time and within budget. Whether you're looking to build a new mobile app, software, revamp your eCommerce website, or improve your SEO, we have the expertise and experience to deliver desired results.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - SEO EXPATE BANGLADESH LTD
+Home
+Exhibitors
+SEO EXPATE BANGLADESH LTD
+Regular Stall
+Hall 2 -S69
+SEO EXPATE BANGLADESH LTD
+https://www.seoexpartebd.com
+mijanrahman@seoexpartebd.com
+01723283638
+Khalisakandi, Majhira, Shajahanpur, Bogura-5801
+Company Details
+About Us. SEO Expate Bangladesh Ltd. has the ambition of assisting people and organizations in their prospective industries. We are a well-organized IT-based company that involves almost every possible sector. With our seven branches and almost four hundred employees, we are committed to offering you the top solutions needed for your success-oriented path. Not to mention, we accomplish every project in a more original and efficient manner. Hence, here you can get a look at the most effective technology implementation to increase the capability of your company. SEO Expate Bangladesh Ltd. has ten years of experience in this information technology sector. We have the world’s best software engineers, mobile application developers, graphic designers, digital marketing experts, content creators, and business analysts to fulfill all the work. Of course, they are attentive to customer needs and proficient at what they do. We always monitor the market and adapt to the most current techniques and technologies. Therefore, we are aware of what will enhance any company. Again, we keep an eye on a project from the start and are able to address any problems and solve the issues from the root. In the end, we thoroughly investigate and create every aspect of the work. Indeed, all the projects we have done is successful.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - SHARK LIMITED
+Home
+Exhibitors
+SHARK LIMITED
+Regular Stall
+Hall 1 -S12
+SHARK LIMITED
+http://www.sharkltd.com
+hrd@sharkltd.com
+01911525373
+13C Concord Center Point,14/A Tejkunipara, Farmgate, Dhaka-1215
+Company Details
+SHARK offers Data center & IT related service & solution like Cooling Solutions, Power Solutions, Networking Solutions, Security Solutions, Plumbing System & Automatic Fire Suppression System with 24x7 support service. It ensures support service through 40 plus skilled Engineer & 60 Plus skilled technician. Also, Shark Ltd established 20 Plus Data Center & Tire iii Data Center in Bangladesh. Shark Ltd Representing STULZ, ABB, KJ POWER, EAE, BRUNO, ORTEA, REQATECH, HINDWARE BATHROOM FITTING, TRUFLO CPVC & NEOM TILES.
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Shataj Soft
+Home
+Exhibitors
+Shataj Soft
+Regular Stall
+Hall 1 -S22
+Shataj Soft
+http://www.shataj.com
+shatajsoft@gmail.com
+01733919791
+Rahman Complex(2nd Fl), Plot-13, Road-1, Mirpur-10, Dhaka-1216
+Company Details
+Shataj Soft Ltd. has been engaged with Web Design, Customized software, Mobile application and IT-related support Company in Dhaka, Bangladesh, since 2011. We are awarded with “Wins award Gold Medal” by BID INTERNATIONAL from France in 2013 for Software Development. We believe, great solutions come with great ideas. One of our main objectives is to help businesses grow and develop their own brand identity which makes them distinctive in their competition. Every valued customers can get to know our experiences organized with estimated desires and can hopefully reach their destination. We have several satisfied clients and a good experience to work with GO & NGO as well as multinational company abroad. We are quite interested to provide our services with you. Shataj Soft is always prepared to give proper support within the range of IT sector as per requirements. Shataj Soft Ltd. operates three other IT companies worldwide, Partnership concerns are:
+Product & Services
+10 Ready Website instant Sale
+Shataj Soft
+Software Development/Customization
+TK. 50,000.00
+TK. 40,000.00
+Travel Marketplease
+Shataj Soft
+IT Enabled Services
+TK. 1,000.00
+TK. 500.00
+উদ্দ্যোক্তার দোকান
+Shataj Soft
+E-commerce/Web services
+TK. 1,000.00
+TK. 500.00
+Shataj Shop (POS) System
+Shataj Soft
+Software Development/Customization
+TK. 1,000.00
+TK. 500.00
+Shataj AccPacc (Accounting Software)
+Shataj Soft
+Software Development/Customization
+TK. 1,000.00
+TK. 500.00
+Shataj House Rent Software
+Shataj Soft
+Software Development/Customization
+TK. 1,000.00
+TK. 500.00
+Smart Business Support
+Shataj Soft
+IT Enabled Services
+TK. 1,000.00
+TK. 500.00
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Shikhbe Shobai Solutions
+Home
+Exhibitors
+Shikhbe Shobai Solutions
+Regular Stall
+Hall 1 -S36
+Shikhbe Shobai Solutions
+http://www.shikhbeshobai.com
+shams@shikhbeshobai.com
+01685403332
+House#74, Road#7, Block#H, Banani, Dhaka
+Company Details
+At Shikhbe Shobai, we want to establish a sustainable self-dependency through the online employment model all over the 64 districts of Bangladesh. From the inauguration on 17th May 2017 till today, Shikhbe Shobai has trained 20K+ trainees so far, and it's increasing every day. Our students have reached a combined earning of $17 million (USD) so far. Over 650K+ people are connected with us through social media and supporting our mission. With a combined experience of over 20 years in the industry, we help students, leaders, IT and design pros, project managers, and anyone in any role to develop web development, creative, and business skills. The mentors are well-trained. Our senior trainers have vast experience in teaching as well as hands-on experience. We expect our trainers to resolve students’ queries on the spot and help them become professionals.
+  Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Skylark Soft Limited
+Home
+Exhibitors
+Skylark Soft Limited
+Regular Stall
+Hall 1 -S14
+Skylark Soft Limited
+http://www.skylarksoft.com
+bms@skylarksoft.com
+01712934472
+Level: 01 & 02, House: 142, Road: Old 12, Avenue: 04, Mirpur DOHS, Dhaka 1216, Bangladesh
+Company Details
+We’re a Europe-Bangladesh joint venture software company, promising to provide products, services, and support that verifies compliance to international standards to their existing and potential clients. Our international clients are from in Egypt, India, Hong Kong, USA, Sweden, UK, Australia, Canada, and other countries along with a huge number of local clients.
+Now, our team members are over 110 people. They are dedicated to develop and support high-quality software such as goRMG ERP, PROTRACKER, KNITRACKER, CUTRACKER, PATRON ERP, HRKIT, VATAX and many more customized solutions.
+After launching VATAX, National Board of Revenue (NBR) enlisted it as a government-approved VAT management software. We have achieved the ISO 27001:2013 and ISO 9001:2015 Certificates. Recognizing numerous prestigious awards signifies our outstanding performance. Among them Basis National ICT Awards, Bangladesh Business Innovation Award, The World Summit Awards (WSA), APTICA Award are remarkable.
+  Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Softnmart Limited
+Home
+Exhibitors
+Softnmart Limited
+Regular Stall
+Hall 2-S68
+Softnmart Limited
+https://softnmart.com
+softnmart@gmail.com
+01894-885555
+Green Trade Point , B-4 , 4th Floor, 7 Mohakhali C/A, Dhaka-1212
+Company Details
+Digital marketing has changed the structure of traditional marketing in any given industry in Bangladesh thanks to all the companies, from newbies to long-established ones, for their massive contribution to such a revolution. While the whole world was benefiting from the ripening seeds of digital marketing for growing their revenue, Bangladesh was a little step behind, but that has changed with the hands of digital marketers. With such vast and talented digital marketers, Softnmart is another addition to success in this field, helping the new start-up counterparts dominate their own marketplace and niches. A heartiest and warm thanks go to our ICT sector for allowing the companies like Softnmart to stand on its shoulder amidst all the odds and obstacles. The ICT sector has kitted us out with all the necessary tools, robust internet connectivity, and an easy-to-attend tuition center where thousands of prospects are graduating to hold the hands of a company like ours to advance toward digital success. Softnmart itself is a self-growing start-up, facing enormous challenges and obstacles in its earlier days. Still, due to our solid effort and clever tactics, we learned to dominate the digital industry. That’s why our understanding of the recently emerging start-up companies is way more empathetic and compassionate. Our biggest strength is our workforce, and versatile adaptability to any given pressure as our tech-savvy have the capacity and talent to bring fruitful outcomes to clients’ simple to super-complex projects. Their years of experience and the perfect mixture of pragmatic-theoretical knowledge help to solve any digital-marketing-related tasks at the right time within the specific budget. Our previous case studies and a bag full of accolades speak of it. Our digital marketing has an unequivocal goal – bringing in the resources and capacity of your company and refining them to build a distinctive and inimitable strategy and enforce it to bring the ROI to your company. Softnmart has what it takes to boost your company’s desired outcome in such a short span of time with no extra costs involved. Our longstanding working relationship with foreign entities and the international market has thus led us to build a working environment compatible with international standards. Our active policy, ethos, moral ethics, and environment represent by far the most internationally recognized working atmosphere of any other contemporary digital marketing agency in Bangladesh. Softnmart wasn’t what you think of it as it is today; its root started off with paper fibre trading in the ’90s with the hand of its board of directors. After a series of ups and downs, like any robust and established company, Softnmart has undergone such steps and finally turned into a formidable digital marketing company that helps us recall the hard work we strived for and the moral ethos we foster to pass it on to our future hard-working generations.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Symphony Softtech Ltd.
+Home
+Exhibitors
+Symphony Softtech Ltd.
+Regular Stall
+Hall 2 -S49
+Symphony Softtech Ltd.
+http://www.symphonysoftt.com
+faruque.Sikder@symphonysoftt.com
+01730047765
+House: 2 (3rd Floor), Lake Circus, Kalabagan, Dhaka 1205
+Company Details
+Symphony Softtech Ltd. is a software development and service provider company operating its business in the Bangladesh market since 1999 with gradual improvement of market share in Accounting and financial software application domain areas. We have dedicated professionals with IT & Business backgrounds who are always keen to fulfill clients’ requirements with cutting-edge technologies to work in the competitive business market. 
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Synergy Interface Ltd.
+Home
+Exhibitors
+Synergy Interface Ltd.
+Regular Stall
+Hall 1 -S20
+Synergy Interface Ltd.
+http://www.synergyinterface.com
+taniasynergy@gmail.com
+01749151909
+Unit-G/A, House No: 687, Road No: 10, Mirpur DOHS, Dhaka-1216, Bangladesh.
+Company Details
+SYNERGY INTERFACE LTD. (SIL) is a renowned IT organization established in 2007 along with its technical expertise, developing and implementing cutting edge information solutions. Within the shortest period of time SIL has established its reputation and has become one of the most reliable ICT Company in Bangladesh. SYNERGY INTERFACE LTD. covers wide range of Online Data Based Software and Custom specialized solution software. SIL has developed its strategic plans for Implementation and operation of client(s) service, product support and quality assurance. SIL initiates and enforces its strict professional controls addressing client(s) needs and promotional growth. As a system integrator SIL designs and integrates its software and hardware systems for operations. Our vision is to make you well equipped in respect of establishing your company self-reliant by offering easy-technique, affordable rate, plans and excellent service. Synergy Interface Limited is bringing next-generation ICT products/service very comfortably. Our Mission at Synergy Interface Ltd. is to provide our clients project-based solutions through enduring client relationships built on mutual respect and trust to help our clients leverage technical resources for greater productivity. The most valuable resource of Synergy Interface Ltd is our team comprising skilled and dedicated designers, programmers and support personnel. Our policies encourage innovative thinking and creative ideas, with rewards for team players who demonstrate support for progressive and cutting edge solutions. The technology competencies of Synergy Interface Ltd. cover cutting edge tools such as WordPress, Drupal and Open cart for Content Management Systems. Bootstrap, AJAX, Typescript, XHTML, JavaScript, AngularJS for web based system designing. Software competencies include ASP.NET, C#, Visual Basic and Java. Furthermore, we have exceptional knowledge and experience in MySQL, MSSQL, MongoDB and Oracle Server for database designing, and top quality skills in developing Android Apps. Some of our products are ERP Solution, Distribution System, Sales Force, ISP Management, Geo Leo, HR & Payroll, Inventory Management, POS (Point of sales), Accounting, Edokan (E-Commerce Building Platform) And Many more. Our services include Mobile App Development, Website Design & Development, Software Development, Training, Bulk SMS, E-Commerce, Web Hosting, GIS Application Development and Many more. We are ISO: 9001 Certified. Currently we provide products and services that meet customer and regulatory requirements. Whatever we do at Synergy Interface Ltd is within the scope of our certified management system. We are Member of: BASIS (No: G803). BASIS is the national trade body for Software & IT Enabled Service industry of Bangladesh. Established in 1997, the association has been working with a vision of developing vibrant software & IT service industry in the country. We are affiliated member firm of International Quality Federation (IQF), USA. IQF is an organization designed to connect quality professionals. In Bangladesh we are the only authorized organization to provide this certification on six sigma training and implementation. We have a wide range of mobile apps that are being used by ICT ministry, Micromax Mobile, Bdlist24, Modern Herbal etc. We have provided software for many Government Organizations. Currently Our ERP solution is being used by Meghna life insurance, Vehicle Solution, Krishibid Group, Dream Land Courier and many other renowned organizations. Edokan is the most trending product that we have built recently. It is a SaaS platform with a monthly subscription model that integrates messenger, payment gateways, delivery systems, marketing systems, and SMS gateway. Our office is located at House 687, Road 10, Mirpur 12 DOHS, Dhaka 1216, Bangladesh. Contact us for any queries at +88-09678777179, +88-09678777180.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Sysnova Information Systems Ltd.
+Home
+Exhibitors
+Sysnova Information Systems Ltd.
+Regular Stall
+Hall 1 -S16
+Sysnova Information Systems Ltd.
+http://www.sysnova.com
+zeeshan@sysnova.com
+01713019325
+Ahmad and Kazi Tower, House-35, Road-02,Dhanmondi, Dhaka-1205
+Company Details
+Sysnova Information Systems Limited is an IT company specializing in open source solutions. It supports all Kazi Farms Group companies with Adempiere ERP and SIEM Tool for Cyber Security.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Technohaven Company Limited
+Home
+Exhibitors
+Technohaven Company Limited
+Regular Stall
+Hall 1 -S1
+Technohaven Company Limited
+http://www.technohaven.com
+snm@technohaven.com
+01711696204
+House-169, Road-03, Mohakhali DOHS
+Company Details
+For more than 35 years Technohaven Company Limited has been serving the South Asian nations as a leader in software and IT services known for its ethical values and business principles. Technohaven’s vision is to help solve big socio-economic problems facing the bottom half of the global population through technology innovations tried and tested in the most challenging social environment presented by Bangladesh – the most densely populated  country in the world (aside from city states such as Singapore). In the last three decades Technohaven has completed many large IT projects and launched many software products. Technohaven’s experience in public private partnership (PPP) projects since the early nineteen-nineties make it a pioneer and standard bearer in the field. Technohaven is also one of the first wave of software exporters from Bangladesh to Asia, Europe and USA and is CMMi Level 3 certified. Technohaven today is focused on its knowledge management services, IT Project Management Consulting, Workflow Automation and Tax Compliance Solutions.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Technosoft Integration
+Home
+Exhibitors
+Technosoft Integration
+Regular Stall
+Hall 2 -S62
+Technosoft Integration
+https://www.ts-integration.net/
+info@ts-integration.net
+(+88) 09606 993300
+Axis Delvista (Level-2) Holding no: 7/1, Aurangzeb Road, Mohammadpur. Dhaka - 1207
+Company Details
+Technosoft is an innovative software company that specialises in providing innovative solutions to our customers.
+
+We specialise in creating solutions based on the analysis of our cutomer’s needs, demands, and current dilemma in business, to help them not just solve their problem, but optmise the output of their business. With the collective experiece of our highy efficient and effective team, we are able to deliver highly comlex, yet intelligent solutions to our customers.
+
+We work while maitining the best industry practices so that we can ensure the best quality of the products delivered to our customers.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Techntalents
+Home
+Exhibitors
+Techntalents
+Regular Stall
+Hall 2 -S63
+Techntalents
+http://www.techntalents.com
+tectalents@hotmail.com
+01847180965
+AMM Tower, 215 KHA (3rd floor) Merul Badda, Dhaka
+Company Details
+We Facilitate IT job placement by connecting IT Professionals and employers for right tech jobs.
+Product & Services
+IT & Software Jobs
+Techntalents
+IT Enabled Services
+IT Jobs in BASIS SoftExpo
+Techntalents
+IT Enabled Services
+Techntalents
+Techntalents
+IT Enabled Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - THESOFTKING LIMITED
+Home
+Exhibitors
+THESOFTKING LIMITED
+Regular Stall
+Hall 1 -S35
+THESOFTKING LIMITED
+http://www.thesoftking.com
+rifat@thesoftking.com
+01716441700
+House# 60, Road# 20, Sector# 11, Uttara, Dhaka 1230
+Company Details
+THESOFTKING is a growing start-up from Bangladesh. THESOFTKING had recently grown from a tiny start-up to a company with several twenty Team members. THESOFTKING is a software development firm based in Dhaka, Bangladesh. THESOFTKING works on various technologies such as Web Applications, Mobile Apps, UI/UX, Plugin, Extension, and many more. It's a team of various creative designers & developers who develop digital strategies, products, and services.
+THESOFTKING desires to revamp the web so that each and every website produced by us is the site of gratification for the users, as well as the website owners, to get precious customers. Our experts work on the cutting edge of the latest technologies. Do visit us at our website: https://thesoftking.com/ for contact them, just mail: software@thesoftking.com
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Tiller
+Home
+Exhibitors
+Tiller
+Regular Stall
+Hall 2 -S40
+Tiller
+http://www.tiller.com.bd
+tiller.bd@gmail.com
+01717428470
+Level 10 & 11, House 01, Road 03, Block A, Section 06, Mirpur
+Company Details
+Tiller is the leading IT enabled consultancy firm with a mission of easing spatial solution having world’s most advanced geo-spatial technologies to support clients in decision making in a wide range of sphere: Urban Development, Transport, WASH, Hydrology, Geology, Information Technology, Disaster & Climate Change, Agriculture & Rural Development, Environment & Natural Resources, Energy and Power. Tiller is the forerunner of introducing advance drone technology in spatial planning, activity monitoring and investigation in Bangladesh and specialist of master planning and urban design consultancy. The firm is proud of having a talent team of Planners, Urban Designers, Geographers, Analysts and IT Experts who are enthusiastic to enhance the living environment in a green, resilient and smart way. An optimistic team of R&D cluster are dedicated to explore and discover new avenue for advanced development in context of technology and knowledge. Using the power of multidimensional evidence Tiller strives to serve it clients with expertise and value.
+Product & Services
+Adaptation to Climate Change into the National and
+Tiller
+Software Development/Customization
+Amader City
+Tiller
+R&D Services
+DESCO Web GIS
+Tiller
+Software Development/Customization
+Sanboard
+Tiller
+Software Development/Customization
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Zantrik Limited
+Home
+Exhibitors
+Zantrik Limited
+Regular Stall
+Hall 2 -S50
+Zantrik Limited
+http://www.zantrik.com
+biplob9@gmail.com
+01713064482
+House 01, Road 08, Sector 05, Uttara, Dhaka - 1230
+Company Details
+Zantrik, is a trusted platform in Bangladesh, a one-stop platform for all vehicle needs. Zantrik offers reliable, quality-assured automotive service with justified and transparent pricing.
+Zantrik is working in developing a complete ecosystem for providing convenient and reliable services for vehicles, from purchase to sell.  We have a nationwide service coverage with more than 2,500 service partners (workshops) covering all major highways in the country, so that, whenever your vehicle troubles on any major roads in the country, or in Dhaka, Chittagong, Sylhet and Narayanganj city, we can send a technician within 30 minutes to fix the vehicle, 24x7.    
+  We are offering a 360-degree yearly maintenance and troubleshooting package for corporate fleets and corporate personnel vehicles. We have our own automobile engineering team, and, our strict quality assurance process ensures that you are getting the best quality service at a justified price.       
+  Zantrik has already been awarded the nation's most prestigious IT award” BASIS National IT award 2018” as a champion in transport category. It was also awarded with the championship trophy in "Best process innovation category" in Bangladesh innovation award 2018, and, also has been awarded internationally (APICTA/China, SLUSH/Finland, Seedstars / Switzerland, Techsauce / Bangkok etc).
+ Products/Services: Mobile App Based Automotive Maintenance, Troubleshooting, and Roadside Emergency Service.
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - ABM TECHNOLOGY
+Home
+Exhibitors
+ABM TECHNOLOGY
+Startups Zone
+Hall 1 -K10
+ABM TECHNOLOGY
+http://www.abmtechnology.com.bd
+info@abmtechnology.com.bd
+01630741299
+33 Anjuman Mofidul Islam Road, Kakrail, Dhaka-1000
+Company Details
+ABM TECHNOLOGY is a Bangladesh based IT Development Company. Let us give you the best Software solutions for your organization. ABMT, in its 7+ Years of Experience, has gathered stability with proven success in delivering cost-effective but quality service to our clients in Canada, USA, Netherlands, UK, Germany, Denmark, and Japan. We have different groups for different solutions. We make your IT vision a reality.
+The world is today witnessing a technological revolution that has already entered a new millennium; our societies and economies are being integrated with a clear perception of these changes. “Quality First” is the motto of our company, and establishes the company as a leader in the field of information technology. We make IT vision a reality. ABM TECHNOLOGY is the One Stop IT Solutions Provider for you and your company.
+Our Product and Service helps users to find solutions from & within their own intellects. Our Product and Service is similar to a coach or friendly guide that pushes you just enough to a particular direction where you find the answers and can easily reach to a satisfactory output. Whatever be your problem in relation to IT for effective and efficient office management, you can rely upon us with a sigh of relief. 
+OUR TECHNOLOGY
+Database
+Oracle 19C
+Automatic Indexing.
+SQL Diagnostics and Repair Enhancements.
+Big Data and Performance Enhancements for In-Memory External Tables.
+Reporting
+BI Publisher 12c
+Oracle Documents Cloud Service is an enterprise content
+Use WebCenter Content as a Data Source
+Attach PDF to your Invoices
+Deliver E-mail Body in HTML format along with Report as attachment
+Oracle Apex
+Oracle Apex 22.1
+You can define a collection of order by clauses, internal keys, and display values as part of the item definition. The appropriate order by clause associated with the key will be applied.
+Faceted Search Enhancements
+Rich Text in the Interactive Gri
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Advancing Business Professionals (ABP) Ltd.
+Home
+Exhibitors
+Advancing Business Professionals (ABP) Ltd.
+Startups Zone
+Hall 1 -K7
+Advancing Business Professionals (ABP) Ltd.
+http://www.ideaxen.com
+fakhrul@abpglobal.org
+01841389900
+ideaxen, 44 F/7 (4th Floor), Rongon Tower West Panthapath, Dhaka- 1205
+Company Details
+ideaxen has been formed by a group of professionals having vast experience and broad exposure to Information Technology and Business Automation. We focus exclusively on high-quality, cost-effective software development and implementation services. ideaxen is currently doing business in MNCs, Large Corporate, Education, Telecom and the development sector.
+We are one of the fastest-growing and leading solution provider in e-commerce solutions, accounting solutions and IOT solutions provider. People involved here are young qualified business graduates and qualified engineers from the renowned Institutions. It is an organisation where professionals from both technical and functional field group together with an objective of providing appropriate business solutions. It realizes the importance of functional knowledge and its impact in developing business solutions.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - Alor Feri Limited
+Home
+Exhibitors
+Alor Feri Limited
+Startups Zone
+Hall 1 -K8
+Alor Feri Limited
+http://www.alorferi.com
+info@alorferi.com
++880 1717 983 473
+1301/1, Monipur, Mirpur, Dhaka-1216
+Company Details
+Alor Feri is a promising Bangladeshi technology startup founded in 2021. The company's mission is to empower libraries and connect readers with books and knowledge to improve the quality of education and enlighten society. With the Alor Feri app, the company provides a smart library management system that streamlines library operations and enhances the reading experience for users.
+Md Babul Mirdha, founder, started researching and developing the Alor Feri app back in 2015 while working as a software engineer at a private company. Today, the app is used by over 160 libraries and serves over 2,800 readers.
+Alor Feri Limited is dedicated to building a knowledge-based society through technology. With its innovative library management app, the company is making a significant impact in the local community by improving access to books and learning resources.
+  Vision:
+To revolutionize the library experience for patrons and institutions alike, fostering stronger bonds between libraries and their communities, and promoting literacy, education, and social enrichment.
+Mission:
+To empower libraries and connect readers with books and knowledge to improve the quality of education and enlighten society.
+Goals:
+* Streamline library tasks
+* Enhance library-reader connection
+* Provide valuable performance metrics
+* Measure library success
+* Improve the library experience for patrons
+* Improve the quality of education and enlighten society.
+Product & Services
+Home
+About
+Event
+Guest & Speakers
+Exhibitors
+Product & Service
+Galleries
+Media Room
+Contact Us
+Login
+Exhibitor - BAKTIER AHMED RONY AND ASSOCIATES LIMITED
+Home
+Exhibitors
+BAKTIER AHMED RONY AND ASSOCIATES LIMITED
+Startups Zone
+Hall 2 -K13
+BAKTIER AHMED RONY AND ASSOCIATES LIMITED
+http://www.barabd.com
+barabdinfo@gmail.com
+013137174305
+6TH Floor, Skylar Point, 175, Shohid Saiyad Nazrul Ismlam Sarani, Biyanagar, Dhaka-1000
+Company Details
+BAKTIER AHMED RONY & ASSOCIATES LIMITED (BARAL) is a dynamic & Solution based Company where it works on Information Technology (software development) and Revenue matters like-TAX,VAT & CUSTOMS with having bunch of energetic, experienced and result oriented team of since 2021. We focus on building the long-term relationships with their clients and helps them to achieve their business goals, by giving excellent service on VAT, Income TAX, and Customs. We creating exclusive and eye-catching Website design & development, Secured & user-friendly, e-commerce application, Mobile apps, Customized Software development,Digital Marketing agency for SEO, SEM, SMM, Bulk Email & SMS, Advanced Phishing and Malware protective Business Email solutions such as G Suite, Yandex & Office 365, Contract based Network, PC and Server maintenance. BAKTIER AHMED RONY & ASSOCIATES LIMITED (BARAL), Consultants, Co-Workers are always developing innovative, problem solving and new idea into solution for the customers. We are spending time on Research & Development (R&D) for finding the customers’ needs and gaps between satisfaction and dissatisfaction.0
+Product & Services

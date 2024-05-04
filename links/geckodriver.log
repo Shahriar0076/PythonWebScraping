@@ -364,3 +364,82 @@ aa.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-JXZ73HP21S:549:412
 
 1714836768743	Marionette	INFO	Stopped listening on port 60320
 Dynamically enable window occlusion 1
+1714836805959	geckodriver	INFO	Listening on 127.0.0.1:60775
+1714836809081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60776" "-no-remote" "-profile" "C:\\Users\\THESOF~1\\AppData\\Local\\Temp\\rust_mozprofilebzfbSX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714836809816	Marionette	INFO	Marionette enabled
+1714836809883	Marionette	INFO	Listening on port 60781
+WebDriver BiDi listening on ws://127.0.0.1:60776
+1714836810365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60776/devtools/browser/ffa33c4a-6655-4d23-9e6b-eccdf61170a3
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714836841616	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotJavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+wired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714836952574	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+ackage Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hot1714837067296	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+n.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714836942946	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714836949937	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714836919254	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714836951733	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714837027042	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ror: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 

@@ -443,3 +443,736 @@ JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Pack
 JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
 JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
 JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714846105087	geckodriver	INFO	Listening on 127.0.0.1:58870
+1714846108105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58871" "-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilepN0PP7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714846108425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714846108494	Marionette	INFO	Listening on port 58878
+WebDriver BiDi listening on ws://127.0.0.1:58871
+1714846108712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58871/devtools/browser/ac26a44f-2a82-49e0-b5bf-f2dc02026bff
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+1714846138484	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 10678) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilepN0PP7\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+console.error: "buildList failed: " ({})
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+1714847514562	Marionette	INFO	Stopped listening on port 58878
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+le " (new NotReadableError("Could not write chunk (size = 10370) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileR61Bx1\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", 1714847514548	Marionette	INFO	Stopped listening on port 51714847514628	Marionette	INFO	Stopped listening on port 58940
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+console.error: "buildList failed: " ({})
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/V6_85qpc2Xf2sbe3xTnRte7m/recaptcha__en.js, line 1190: Script terminated by timeout at:
+@https://www.gstatic.com/recaptcha/releases/V6_85qpc2Xf2sbe3xTnRte7m/recaptcha__en.js:1190:152
+
+1714847515067	Marionette	INFO	Stopped listening on port 59016
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+pt error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.skypack.dev/@hotwired/turbo, line 20: Error: [Package Error] "@hotwired/turbo@v8.0.4" could not be built. 
+JavaScript error: https://cdn.sconsole.error: "buildList failed: " ({})
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 6989) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileYrcVRk\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: CompositorBridgeChild receives IPC c[Parent 27320, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/geck1714847514692	Marionette	INFO	Stopped listening on port 59196
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/V6_85qpc2Xf2sbe3xTnRte7m/recaptcha__en.js, line 1190: Script terminated by timeout at:
+@https://www.gstatic.com/recaptcha/releases/V6_85qpc2Xf2sbe3xTnRte7m/recaptcha__en.js:1190:152
+
+FO	Stopped listening o1714847514609	Marionette	INFO	Stopped listening on port 59273
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+ableError("Could not write chunk (size = 3162) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilevA2mPs\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Handling webrender1714847514594	Marionette	INFO	Stopped listening on port 59357
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/V6_85qpc2Xf2sbe3xTnRte7m/recaptcha__en.js, line 1190: Script terminated by timeout at:
+@https://www.gstatic.com/recaptcha/releases/V6_85qpc2Xf2sbe3xTnRte7m/recaptcha__en.js:1190:152
+
+Exiting due to channel error.
+ose with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: Com1714847514582	Marionette	INFO	Stopped listening on port 59546
+Dynamically enable window occlusion 1
+ped listening on port 59481
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+Exiting due to channel error.
+ot a valid URL.
+console.error: "buildList failed: " ({})
+console.error: ({})
+1714847514642	Marionette	INFO	Stopped listening on port 59594
+Dynamically enable window occlusion 1
+ttings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714846182011	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714846182141	Marionette	INFO	Listening on port 59643
+WebDriver BiDi listening on ws://127.0.0.1:59622
+1714846182205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59622/devtools/browser/e66c3339-629f-4312-b5ff-6cf8ac8c3d73
+1714846212105	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://e-cab.net/public/js/frontend_app.js?v=123, line 1: Error: Request aborted
+JavaScript error: https://e-cab.net/public/js/frontend_app.js?v=123, line 1: Error: Request aborted
+JavaScript error: https://e-cab.net/public/js/frontend_app.js?v=123, line 1: Error: Request aborted
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+1714847514578	Marionette	INFO	Stopped listening on port 59643
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+ession
+DevTools listening on ws://127.0.0.1:59670/devtools/browser/c307f682-a1cf-499f-9b9a-d710e752b595
+1714846220495	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 6601) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilew9flZd\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 6733) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilew9flZd\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847514581	Marionette	INFO	Stopped listening on port 59690
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+
+DevTools listening on ws://127.0.0.1:51714846225751	addons.xpi	ERROR	System addon update list erro1714846231132	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'httpconsole.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 6802) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileNpW1kg\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847514919	Marionette	INFO	Stopped listening on port 59749
+Dynamically enable window occlusion 1
+_mozprofileIBStTe\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847514557	Marionette	INFO	Stopped listening on port 59771
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+Exiting due to channel error.
+error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Handling webrender error 2
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 7030) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileZR5Sxr\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[Parent 34460, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1714847514596	Marionette	INFO	Stopped listening on port 59823
+Dynamically enable window occlusion 1
+JavaScript warning: https://e-cab.net/public/js/frontend_app.js?v=123, line 1: Script terminated by timeout at:
+S@https://e-cab.net/public/js/frontend_app.js?v=123:1:3287374
+e@https://e-cab.net/public/js/frontend_app.js?v=123:1:3292564
+install@https://e-cab.net/public/js/frontend_app.js?v=123:1:3303460
+t.use@https://e-cab.net/public/js/frontend_app.js?v=123:1:1605861
+@https://e-cab.net/public/js/frontend_app.js?v=123:1:3304397
+a@https://e-cab.net/public/js/frontend_app.js?v=123:1:110
+@https://e-cab.net/public/js/frontend_app.js?v=123:1:3157017
+a@https://e-cab.net/public/js/frontend_app.js?v=123:1:110
+@https://e-cab.net/public/js/frontend_app.js?v=123:1:3156916
+a@https://e-cab.net/public/js/frontend_app.js?v=123:1:110
+@https://e-cab.net/public/js/frontend_app.js?v=123:1:910
+@https://e-cab.net/public/js/frontend_app.js?v=123:1:921
+
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ileErtMSD\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[Parent 36768, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1714847440829	Marionette	INFO	Stopped listening on port 59923
+Dynamically enable window occlusion 1
+sionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+JavaScript error: , line 0: uncaught exception: out of memory
+1714847514595	Marionette	INFO	Stopped listening on port 59974
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+Exiting due to channel error.
+unk (size = 6063) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilevuQrFeconsole.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 10600) to file C:\\Users[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 6118) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilevuQrFe\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[Parent 38792, Main Thread] WARNING: base::KillProcess refusing [Parent 39832, Main Thread] WARNING: ba[Parent 39484, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with re1714847514594	Marionette	INFO	Stopped listening on port 60022
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+GFX1-]: CompositorBridgeChild receives IPC close w1714847478796	Marionette	INFO1714847514609	Marionette	INFO	Stopped listening on port 60103
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+DOWN is set, shutting down
+1714847391590	Marionette	INFO	Stopped listening on port 60144
+Dynamically enable window occlusion 1
+led: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalSh[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+utdown
+[Parent 40016, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 12623) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileKcgbDG\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847514593	Marionette	INFO	Stopped listening on port 60232
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+ow occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+tReadableError("Could not write chunk (size = 12160) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileJ6q751\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be coconsole.error: "buildList failed: " ({})
+1714847514547	Marionette	INFO	Stopped listening on port 60314
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+hutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[Parent 38204, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: fi1714847514601	Marionette	INFO	Stopped listening on port 60546
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+th reason=AbnormalShutdown
+[GFX1-]: shader-cache: Timed out before finishing loads
+[ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+1714847514546	Marionette	INFO	Stopped listening on port 60414
+Dynamically enable window occlusion 1
+ools listening on ws://127.0.0.1:60643/devtools/browser/6511d388-3207-42a5-b873-ad65e852b2a5
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://basis.org.bd/public/js/frontend_app.js, line 1: SyntaxError: missing } after property list
+JavaScript note: https://basis.org.bd/pubconsole.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 6125) to file C:\\Users\[GFX1-]: shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::prconsole.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 2537) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofile3vHxbL\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847514574	Marionette	INFO	Stopped listening on port 60718
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+ line 0: uncaught exception: out of memory
+1714847514569	Marionette	INFO	Stopped listening on port 60689
+Dynamically enable window occlusion 1
+14847121390	Marionette	WARN	Atom getVisibleText failed: "out of memory"
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Handling webrender error 2
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 2192) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofile8kdGbV\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[Parent 46220, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1714847514580	Marionette	INFO	Stopped listening on port 61312
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+sionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847478777	Marionette	INFO	Stopped listening on port 61411
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGL[GFX1-]: Killing GPU process due to IPC reply timeout
+[Parent 49832, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: ficonsole.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 6002) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileRWnx85\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[Parent 30116, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: shader-cache: Timed out before finishing loads
+[ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+1714847478775	Marionette	INFO	Stopped listening on port 61469
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: Netwoconsole.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+!!! error running onStopped callback: TypeError: callback is not a function
+evice was removed, HRESULT: 0x887A0005
+ERR: Rendere[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[Parent 51148, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_w1714847478815	Marionette	INFO	Stopped listening on port 62125
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempJavaScript warning: https://basis.org.bd/public/js/frontend_app.js, line 1: Script terminated by timeout at:
+$@https://basis.org.bd/public/js/frontend_app.js:1:3976934
+@https://basis.org.bd/public/js/frontend_app.js:1:3981399
+install@https://basis.org.bd/public/js/frontend_app.js:1:3990657
+t.use@https://basis.org.bd/public/js/frontend_app.js:1:1692533
+@https://basis.org.bd/public/js/frontend_app.js:1:3991576
+a@https://basis.org.bd/public/js/frontend_app.js:1:110
+@https://basis.org.bd/public/js/frontend_app.js:1:3781868
+a@https://basis.org.bd/public/js/frontend_app.js:1:110
+@https://basis.org.bd/public/js/frontend_app.js:1:3781767
+a@https://basis.org.bd/public/js/frontend_app.js:1:110
+@https://basis.org.bd/public/js/frontend_app.js:1:916
+@https://basis.org.bd/public/js/frontend_app.js:1:927
+
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Dynamically enable windconsole.warn: Toconsole.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+FrM\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be 1714847478771	Marionette	I1714847478818	Marionette	INFO	StoppedDynamically enable window Dynamically econsole.error: "Failed to console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 10599) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilel4yv0u\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847478778	Marionette	INFO	Stopped listening on port 63179
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+ console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 11803) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofile6H7o1J\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847478777	Marionette	INFO	Stopped listening on port 63420
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ew NotReadableError("Could not write chunk (size = 1886) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileD1AXWm\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[Parent 42036, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: GPU process 1714847478789	Marionette	INFO	Stopped listening on port 63820
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+n port 63631
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+iled program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cachconsole.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 923))
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 11307) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileNS8Q7Y\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 923: TypeError: this._searchProviderInfo is null
+1714847478806	Marionette	INFO	Stopped listening on port 49162
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Remote Settings profile-before-change","state":"Remaining: 14 callbacks (importJSONDump-main-anti-tracking-url-decoration-1, importJSONDump-main-query-stripping-2, importJSONDump-main-fingerprinting-protection-overrides-3, importJSONDump-main-partitioning-exempt-urls-4, importJSONDump-main-cookie-banner-rules-list-5, importJSONDump-main-hijack-blocklists-6, importJSONDump-main-search-telemetry-v2-7, importJSONDump-main-search-config-8, importJSONDump-main-search-config-overrides-9, importJSONDump-blocklists-gfx-10, importJSONDump-main-top-sites-11, importJSONDump-main-url-classifier-skip-urls-12, importJSONDump-main-translations-models-13, prepareShutdown-14).","filename":"resource://services-settings/RemoteSettingsWorker.sys.mjs","lineNumber":189,"stack":["resource://services-settings/RemoteSettingsWorker.sys.mjs:null:189","resource://services-settings/RemoteSettingsClient.sys.mjs:_importJSONDump:966","resource://services-settings/RemoteSettingsClient.sys.mjs:get/this._importingPromise<:453","resource://services-settings/RemoteSettingsClient.sys.mjs:get:468"]}] Barrier: profile-before-change
+t.com/user:" "NetworkError when attempting to fetch resource."
+!!! error running onStopped callback: TypeError: callback is not a function
+ogram object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_upconsole.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 1150) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofile8kzxFU\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+JavaScript error: , line 0: uncaught exception: out of memory
+1714847478788	Marionette	INFO	Stopped listening on port 64627
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+
+[ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[ERROR webrender1714847344141	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+DevTools listening on ws://127.0.0.1:50462/devtools/browser/20f0355a-b9c3-40b6-bcc8-182b345f6c1f
+console.error: (new NotReadableError("Could not write chunk (size = 109694) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileXU9E9J\\startupCache\\webext.sc.lz4.tmp. The file may be corrupt.", (void 0)))
+console.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: main/normandy-recipes-capabilities importChanges() IndexedDB:  importChanges() in main/normandy-recipes-capabilities The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: services.settings: 
+  Message: StorageError: Storage error: InvalidStateError: IndexedDB: main/sites-classification importChanges() IndexedDB: collections, timestamps, records importChanges() in main/sites-classification A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-Exiting due to channel error.
+Exiting due to channel error.
+ (new AbortError("IndexedDB: main/focus-experiments getLastModified() IndexedDB:  execuconsole.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 10582) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilerN1WJh\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+1714847514579	Marionette	INFO	Stopped listening on port 61271
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+!!! error running onStopped callback: TypeError: callback is not a function
+IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[Parent 47816, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:349
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+JavaScript error: resource://gre/modules/NewTabUtils.sys.mjs, line 1378: TypeError: conn is undefined
+[GFX1-]: shader-cache: Failed to deserialize program binary: File size is too small
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to deserialize program binary: File size is too small
+console.error: (new TypeError("db is undefined", "resource://gre/modules/Bookmarks.sys.mjs", 2542))
+JavaScript error: resource://gre/modules/NewTabUtils.sys.mjs, line 1378: TypeError: conn is undefined
+console.error: (new TypeError("db is undefined", "resource://gre/modules/Bookmarks.sys.mjs", 2542))
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 9345) to file C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilelcWNyV\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+JavaScript error: resource://gre/modules/NewTabUtils.sys.mjs, line 1378: TypeError: conn is undefined
+console.error: "buildList failed: " (new TypeError("conn is undefined", "resource:///modules/WindowsJumpLists.sys.mjs", 226))
+JavaScript error: resource://gre/modules/PlacesUtils.sys.mjs, line 2033: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+1714847478805	Marionette	INFO	Stopped listening on port 65279
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/PlacesUtils.sys.mjs, line 2033: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+!!! error running onStopped callback: TypeError: callback is not a function
+1714847775116	geckodriver	INFO	Listening on 127.0.0.1:50477
+1714847778157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50478" "-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileURBLZm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847778980	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847779050	Marionette	INFO	Listening on port 50483
+WebDriver BiDi listening on ws://127.0.0.1:50478
+1714847779280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50478/devtools/browser/6940972e-33c7-44d6-b400-78da1d930d25
+1714847809073	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+"-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileOHCWT9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847784277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847784333	Marionette	INFO	Listening on port 50517
+WebDriver BiDi listening on ws://127.0.0.1:50501
+1714847784653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50501/devtools/browser/934e2c46-1b27-48b1-876d-5018e282d46a
+1714847814297	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "overlay".
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ystem addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+"-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileDtpRSo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847795299	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847795364	Marionette	INFO	Listening on port 50607
+WebDriver BiDi listening on ws://127.0.0.1:50591
+1714847795559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50591/devtools/browser/349c3830-2fae-49cc-b669-712506e5a50e
+1714847825781	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+"-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofileo3ZcEB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847801684	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847801788	Marionette	INFO	Listening on port 50649
+WebDriver BiDi listening on ws://127.0.0.1:50630
+1714847801911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50630/devtools/browser/9386a1a6-64da-4e08-bbfb-af8e3e31b4d7
+1714847832530	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+"-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofile4pnVpF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847807713	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847807817	Marionette	INFO	Listening on port 50692
+WebDriver BiDi listening on ws://127.0.0.1:50677
+1714847808456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50677/devtools/browser/9c7da643-c9c0-4649-8860-b64dfecc36bd
+1714847837826	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "overlay".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApJavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&regioJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Script error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "overlay".
+JavaScript error: https://maps.googleapis.com/maps/apJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+s=geometJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+bd&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&callback=onApiLoad, line 165: Error: Could not lJavaScript error: https://maps.googleapis.com/maps/api/js?clJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+try,search&v=weekly&loading=async&language=en&callback=onApiLoad, line 165: Error: Could not load "util".
+JavaScript error: https://maps.googleJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+origin=&libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad, line 165: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad, line 165: Error: Could not load "overlay".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.comJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad, line 165: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&calJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+arch_impl".
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1064
+1714847871520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51064/devtools/browser/0cf97868-1e4f-46b1-802f-b68b5232af56
+1714847901240	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+rn: services.settings: Ignoring preference overrid1714847883625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-d1714847886145	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847887644	Marionette	INFO	Listening on port 51147
+WebDriver BiDi listening on ws://127.0.0.1:51119
+1714847889768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51119/devtools/browser/0c317fff-3601-4d51-a732-8bfa9ba3b330
+1714847916202	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+0.0.1:51153/devtools/browser/52d52fa9-68d3-44ee-bbb5-9826adb159f7
+1714847918037	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+"-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofilemZTI1I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847905360	geckodriver	INFO	Listening on 127.0.0.1:51266
+1714847909772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debug1714847911766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51224/devtools/browser/d89612a5-adad-429f-89d8-bc3b8576024e
+1714847935369	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+	Marionette	INFO	Listening on port 51291
+WebDriver BiDi listening on ws://127.0.0.1:51267
+1714847912363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51267/devtools/browser/3e57a8cc-b0e1-4076-a71d-9e6bc3a56c1d
+1714847941429	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847930636	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847932029	geckodriver	INFO	Listening on 127.0.0.1:51394
+1714847934961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debuDevTools listening on ws://127.0.0.1:51338/devtools/browser/322fdc05-4fa7-4663-b912-d449c13af727
+1714847960837	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847937363	Marionette	INFO	Listening on port 51426
+WebDriver BiDi listening on ws://127.0.0.1:51395
+1714847937500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51395/devtools/browser/1714847956714	mozrunner::runner	INFO	R1714847966856	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+rn: services.settings: Ignoring preference override of remote settings server
+console.wconsole.warn: services.settings: Ignoring preference override of remote settings server
+con1714847960565	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847961714847962991	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847964624	Marionette	INFO	Listening on port 51570
+WebDriver BiDi listening on ws://127.0.0DevTools listening on ws://127.0.0.1:51510/devtools/browser/c6c98f70-428d-4976-9d95-35bf27605fea
+1714848002094	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714847982303	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714847983368	Marionette	INFO	Listening on port 51678
+WebDriver BiDi listening on ws://127.0.0.1:51647
+1714847983484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51647/devtools/browser/fdddf80f-7e2d-4bcd-a1e7-c267e3c80c04
+1714848013292	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+rn: services.settings: Ignoring preference overrid1714847997475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-d1714847999251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714848000783	Marionette	INFO	Listening on port 51736
+WebDriver BiDi listening on ws://127.0.0.1:51713
+1714848003400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51713/devtools/browser/44f4bd70-6b04-4f40-8d29-5233b26a8c11
+1714848029583	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+0.0.1:51760/devtools/browser/99c48b52-987a-4124-b338-a27603e6e47e
+1714848028831	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+rn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714848026639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714848028401	Marionette	INFO	Listening on port 51891
+WebDriver BiDi listening on ws://127.0.0.1:51864
+1714848029870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51864/devtools/browser/c8b417aa-f422-457d-9096-1e863b4536c7
+1714848056666	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+FO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52062" "-no-remote" "-profile" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofile0Vik7y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714848071235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714848073249	Marionette	INFO	Listening on port 52088
+WebDriver BiDi listening on ws://127.0.0.1:52062
+1714848074314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52062/devtools/browser/e504e58c-e4f0-4478-91b8-b7385ea1fd8a
+1714848101301	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: https://e-cab.net/public/js/frontend_app.js?v=123, line 1: Error: Network Error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ttings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714848107917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714848110235	Marionette	INFO	Listening on port 52217
+WebDriver BiDi listening on ws://127.0.0.1:52184
+1714848112845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52184/devtools/browser/e76ce4c8-ef07-497a-9142-2f144a396cf3
+1714848139591	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "C:\\Users\\jyoti\\AppData\\Local\\Temp\\rust_mozprofiles8HFFO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714848139642	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714848141636	Marionette	INFO	Listening on port 52353
+WebDriver BiDi listening on ws://127.0.0.1:52320
+1714848142716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1714848171867	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+DevTools listening on ws://127.0.0.1:52320/devtools/browser/da0639e5-aa4b-4439-b6b0-b7d00c76085c
+console.error: ({})
+Corrupt JPEG data: 3801 extraneous bytes before marker 0xe2
+Corrupt JPEG data: 3801 extraneous bytes before marker 0xe2
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1714877651399	Marionette	INFO	Stopped listening on port 52353
+Dynamically enable window occlusion 1

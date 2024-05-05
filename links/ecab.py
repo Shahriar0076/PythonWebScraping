@@ -1,3 +1,19 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import pyautogui
+import csv 
+import time;
+import requests
+import threading
+import os
+
+
+def save_text_to_text_file(text, file_path):
+    with open(file_path, 'a', encoding='utf-8') as file: 
+        file.write(text + '\n')
+
+urls = [
+
 'https://e-cab.net/company-profile/2767/panache-solutions',
 'https://e-cab.net/company-profile/2766/88-innovations-engineering-ltd.',
 'https://e-cab.net/company-profile/2765/oitijjhya',
@@ -2742,3 +2758,56 @@
 'https://e-cab.net/company-profile/0003/curry-soft',
 'https://e-cab.net/company-profile/0002/i-mesh-ltd',
 'https://e-cab.net/company-profile/0001/esufiana.com',
+]
+
+
+def create_directory_and_file(directory):
+    dir_name, file_name = os.path.split(directory)    
+    if not os.path.exists(dir_name):
+        os.makedirs(dir_name)
+        print(f"Directory '{dir_name}' created.")
+            
+    file_path = os.path.join(dir_name, file_name)
+    if not os.path.exists(file_path):
+        with open(file_path, 'w') as file:
+            file.write("This is a new file.")
+        print(f"File '{file_path}' created.")
+    else:
+        print(f"File '{file_path}' already exists.")
+
+
+
+def print_urls(start, end, file_name,driver):
+    file_name = './ecab/'+file_name
+    create_directory_and_file(file_name)
+
+    for url in urls[start:end]:
+        print(url)        
+        driver.get(url)
+        time.sleep(3)
+        text = driver.find_element(By.TAG_NAME, 'body').text
+        save_text_to_text_file(text, file_name)        
+
+
+
+
+# Function to divide the array into n threads and print URLs
+def print_urls_in_threads(n):
+    thread_list = []
+    urls_per_thread = len(urls) // n  # dividing number of URLs among n threads
+
+    for i in range(n):
+        start = i * urls_per_thread
+        end = (i + 1) * urls_per_thread if i < n - 1 else len(urls)
+        driver = webdriver.Firefox();
+        file_name = f'urls_thread_{i}.txt'  # Generating file name
+        thread = threading.Thread(target=print_urls, args=(start, end, file_name,driver))
+        thread_list.append(thread)
+        thread.start()
+
+    for thread in thread_list:
+        thread.join()
+
+# Example usage with 5 threads
+print_urls_in_threads(10)
+

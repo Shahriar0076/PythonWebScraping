@@ -10,7 +10,13 @@ def extract_numbers_from_text_file(file_path):
                 numbers.append(match)
     return numbers
 
+def export_numbers_to_text_file(numbers, output_file_path):
+    with open(output_file_path, 'w') as file:
+        for number in numbers:
+            file.write(number + '\n')
+
 file_path = 'filtered.txt'  # Provide the path to your text file
+output_file_path = 'extracted_numbers.txt'  # Provide the path for the new text file
 numbers = extract_numbers_from_text_file(file_path)
-print("Numbers found in the text file:")
-print(numbers)
+export_numbers_to_text_file(numbers, output_file_path)
+print("Numbers exported to 'extracted_numbers.txt'")
